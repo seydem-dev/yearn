@@ -4,4 +4,4 @@
 ```
 multiCall()
 ```
-*Calls both `func1` and `func2` from `TestMultiCall.sol`*
+*Calls `func1()`, `func2()`, `getData1()` and `getData2()` from TestMultiCall.sol`*
