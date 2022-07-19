@@ -5,3 +5,25 @@
 multiCall()
 ```
 *Calls `func1()`, `func2()`, `getData1()` and `getData2()` from `TestMultiCall.sol`*
+
+# Test Multi Call
+
+```
+f
+```
+*f*
+
+```
+f
+```
+*f*
+
+```
+f
+```
+*f*
+
+```
+f
+```
+*f*
