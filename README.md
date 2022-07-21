@@ -4,26 +4,26 @@
 ```
 multiCall()
 ```
-*Calls `func1()`, `func2()`, `getData1()` and `getData2()` from `TestMultiCall.sol` simultaneously.*
+*Calls all `TestMultiCall.sol` functions simultaneously.*
 
 # Test Multi Call
 
 ```
-f
+func1()
 ```
-*f*
+*Test function*
 
 ```
-f
+func2()
 ```
-*f*
+*Test function*
 
 ```
-f
+getData1()
 ```
-*f*
+*Test function*
 
 ```
-f
+getData2()
 ```
-*f*
+*Test function*
